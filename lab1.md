@@ -4,7 +4,8 @@
 	To get the ip address of a host. 
 
 ## Theory:
-	For this lab we will be using the InetAddress API provided by Java's networking package (java.net.\*). It is a class in Java which represents an Internet Protocol (IP) address. An instance of an InetAddress consists of an IP address and possibly corresponding hostname. The class represents an Internet address as Two fields: 
+	
+For this lab we will be using the InetAddress API provided by Java's networking package (java.net). It is a class in Java which represents an Internet Protocol (IP) address. An instance of an InetAddress consists of an IP address and possibly corresponding hostname.  The class represents an Internet address as Two fields: 
 	
   1. **Host name** = Contain the name of the Host.
 	
