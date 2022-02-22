@@ -1,4 +1,4 @@
-# Lab 3
+# Lab 4
 
 In this lab, we will look at another Java Program which will simulate a Client Server model of communication.
 
